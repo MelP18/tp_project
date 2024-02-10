@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60706498880",
+    "project_id": "ecole229-550fd",
+    "storage_bucket": "ecole229-550fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60706498880:android:cb36eaeac8cc51348ef2a5",
+        "android_client_info": {
+          "package_name": "com.example.tp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCz0r2tFqayuOn4vkFwifqyiz5kbKVqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
